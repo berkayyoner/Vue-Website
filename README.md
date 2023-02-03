@@ -2,4 +2,4 @@
 .
 #### Referans olarak kullanılmak için hazırlanmıştır.
 .
-- Berkay Öner
+- Sunucuyu başlatmak için terminalde   "npm run serve"   kodunu kullanınız.
